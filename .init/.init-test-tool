@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/rideconnect-platform-148152-148176/bike_taxi_frontend"
+}
